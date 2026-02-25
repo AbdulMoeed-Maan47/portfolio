@@ -1,0 +1,1 @@
+I am starting my web development journey this semester. It is my first porject in the attempt. It is a portfolio project implemented completely in html. I have created multiple pages, and added links to navigate between them.
